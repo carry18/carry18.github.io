@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Carryu
+description: Coursenotes in Tsinghua University
 url: https://carry18.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: carry
   card: summary
 logo: logo.png
 social:
   name: Carryhu
   links:
-    - https://twitter.com/vszhub
+    - https://twitter.com/carry57473085
     - https://github.com/carry18
 google_site_verification: xxxxx
 lang: en
@@ -55,5 +55,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Carryhu
-  url: https://github.com/vszhub/
+  url: https://github.com/carry18
   email: carryhu18@gmail.com
